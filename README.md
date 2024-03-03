@@ -71,11 +71,14 @@
 - ⚡ Fun fact **I think I am a Magical Being :)**
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="/horizontal-divider-gradient.gif">
 
 <h3 align="center">🤝Connect with Me🤝</h3>
 <p align="left">
 <a href="https://linkedin.com/in/haseebijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseebijaz" height="30" width="40" /></a>
 </p>
+
+<img src="/horizontal-divider-gradient.gif">
+
 <!--x axis divider-->
 
