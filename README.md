@@ -60,6 +60,8 @@
 </p>
 
 
+<h3 align="left">Currently:</h3>
+
 - 🔭 I’m currently working on **React and Next Js Applications**
 
 - 👯 I’m looking to collaborate on **building Web Applications**
