@@ -82,7 +82,7 @@ Connect with me via Linkedin, Skype or Gmail :
   <a href="https://join.skype.com/invite/pC8Lcm7WSknd" target="_blank"><img src="https://img.shields.io/badge/Skype-1877F2?style=for-the-badge&logo=skype&logoColor=white" alt="skype" />
     <a href="mailto:haseebijazi150172@gmail.com?subject=Let's%20Connect%20For%20Business%20Purposes!&body=Hi%20Haseeb%2C%0A%0AI%20found%20your%20profile%20on%20Github%20%2C%20lets%20connect%20for%20Business%20!%0A%0AThanks.%0A" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
-<h3 align="left">If the gmail button doesn't redirect you ? </h3>
+<h3 align="left">If the Gmail button doesn't redirect you ? </h3>
 
 - 📫 Reach me directly at **haseebijazi150172@gmail.com**
   
