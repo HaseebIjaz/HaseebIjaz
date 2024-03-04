@@ -75,12 +75,15 @@
 <!--x axis divider-->
 <img src="/horizontal-divider-gradient.gif">
 
-<h3 align="center">🤝Connect with Me🤝</h3>
+<h3 align="left">🤝How to Connect with Me ? </h3>
 <p align="left">
-<a href="https://linkedin.com/in/haseebijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseebijaz" height="30" width="40" /></a>
+Connect with me via Linkedin, Skype or Gmail :
 </p>
-
+  <a href="https://www.linkedin.com/in/haseebijaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="likedin" />
+  <a href="https://join.skype.com/invite/pC8Lcm7WSknd" target="_blank"><img src="https://img.shields.io/badge/Skype-1877F2?style=for-the-badge&logo=skype&logoColor=white" alt="skype" />
+    <a href="mailto:haseebijazi150172@gmail.com?subject=Let's%20Connect%20For%20Business%20Purposes!&body=Hi%20Haseeb%2C%0A%0AI%20found%20your%20profile%20on%20Github%20%2C%20lets%20connect%20for%20Business%20!%0A%0AThanks.%0A" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 <img src="/horizontal-divider-gradient.gif">
 
+<img src="/horizontal-divider-gradient.gif">
 <!--x axis divider-->
 
