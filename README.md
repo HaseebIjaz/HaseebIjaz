@@ -1,5 +1,3 @@
-![logo](cover.jpeg)
-
 <h1 align="center">Hi 👋, I'm Haseeb</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
