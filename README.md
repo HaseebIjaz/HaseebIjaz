@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Haseeb</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
-<p align="center">From Software Engineer at LMKR to Full Stack Developer at Educative and Frontend Developer at xiQ, my journey is woven with a commitment to excellence and a passion for technology. Beyond coding, I bridge the gap between tech and practical solutions, utilizing skills in React.js, TypeScript, .NET CORE, and Python. With a track record in startups, entrepreneurship, and ethical engagement, I aim to empower businesses, fostering growth and innovation. My  mission is to provide cutting-edge technology solutions and ethical leadership in the ever-evolving tech landscape. Let's work together !</p>
+<h3 align="left">Currently:</h3>
 
+- 🔭 I’m currently working on **React, Next Js, FAST API and GenAI Applications**
+
+- 👯 I’m looking to collaborate on **building Applied GenAI Web Applications**
+
+- 💬 Ask me about **Full Stack Development, Front End , React, FAST API**
+
+- 📫 Email me at **haseebijazi150172@gmail.com**
+
+- ⚡ Fun fact **I think I am a Magical Being :)**
+  
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -41,18 +51,6 @@
   </a>
 </p>
 
-
-<h3 align="left">Currently:</h3>
-
-- 🔭 I’m currently working on **React, Next Js, FAST API and GenAI Applications**
-
-- 👯 I’m looking to collaborate on **building Applied GenAI Web Applications**
-
-- 💬 Ask me about **Full Stack Development, Front End , React, FAST API**
-
-- 📫 Email me at **haseebijazi150172@gmail.com**
-
-- ⚡ Fun fact **I think I am a Magical Being :)**
 
 <!--x axis divider-->
 <img src="/horizontal-divider-gradient.gif">
