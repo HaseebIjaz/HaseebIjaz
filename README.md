@@ -3,21 +3,6 @@
 
 <p align="center">From Software Engineer at LMKR to Full Stack Developer at Educative and Frontend Developer at xiQ, my journey is woven with a commitment to excellence and a passion for technology. Beyond coding, I bridge the gap between tech and practical solutions, utilizing skills in React.js, TypeScript, .NET CORE, and Python. With a track record in startups, entrepreneurship, and ethical engagement, I aim to empower businesses, fostering growth and innovation. My  mission is to provide cutting-edge technology solutions and ethical leadership in the ever-evolving tech landscape. Let's work together !</p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
