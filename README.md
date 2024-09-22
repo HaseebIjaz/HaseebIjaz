@@ -44,11 +44,11 @@
 
 <h3 align="left">Currently:</h3>
 
-- 🔭 I’m currently working on **React and Next Js Applications**
+- 🔭 I’m currently working on **React, Next Js, FAST API and GenAI Applications**
 
-- 👯 I’m looking to collaborate on **building Web Applications**
+- 👯 I’m looking to collaborate on **building Applied GenAI Web Applications**
 
-- 💬 Ask me about **Full Stack Development, Front End and React**
+- 💬 Ask me about **Full Stack Development, Front End , React, FAST API**
 
 - 📫 Email me at **haseebijazi150172@gmail.com**
 
