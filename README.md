@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **React, Next Js, FAST API and GenAI Applications**
 
+- 🔭 I actively participate in **Hackathons**
+
 - 👯 I’m looking to collaborate on **building Applied GenAI Web Applications**
 
 - 💬 Ask me about **Full Stack Development, Front End , React, FAST API**
