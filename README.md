@@ -12,8 +12,6 @@
 - 💬 Ask me about **Full Stack Development, Front End , React, FAST API**
 
 - 📫 Email me at **haseebijazi150172@gmail.com**
-
-- ⚡ Fun fact **I think I am a Magical Being :)**
   
 
 <h3 align="left">Languages and Tools:</h3>
