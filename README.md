@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haseeb</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">A FullStack Software Engineer</h3>
 
 <h3 align="left">Currently:</h3>
 
