@@ -11,7 +11,7 @@
   
 - I have started to do **LeetCode** again to sharpen my **Problem Solving Skills**
 
-- Here is my [Leet Code Profile](https://leetcode.com/u/haseebSahab/){:target="_blank"}
+- Here is my [Leet Code Profile](https://leetcode.com/u/haseebSahab/)
 
 - 👯 I’m looking to collaborate on **building Applied GenAI Web Applications**
 
