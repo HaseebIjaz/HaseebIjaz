@@ -7,6 +7,8 @@
 
 - 🔭 I actively participate in **Hackathons**
 
+- I Love working with **Typescript** and **Python**
+
 - 👯 I’m looking to collaborate on **building Applied GenAI Web Applications**
 
 - 💬 Ask me about **Full Stack Development, Front End , React, FAST API**
