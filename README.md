@@ -8,6 +8,10 @@
 - 🔭 I actively participate in **Hackathons**
 
 - I Love working with **Typescript** and **Python**
+  
+- I have started to do **LeetCode** again to sharpen my **Problem Solving Skills**
+
+- Here is my <a href="https://leetcode.com/u/haseebSahab/" target="_blank"> Leet Code Profile </a>
 
 - 👯 I’m looking to collaborate on **building Applied GenAI Web Applications**
 
