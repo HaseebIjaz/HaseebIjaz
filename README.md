@@ -3,17 +3,13 @@
 
 <h3 align="left">Currently:</h3>
 
-- 🔭 I’m currently working on **React, Next Js, FAST API and GenAI Applications**
+- 🔭 I’m currently working on **React, and Next Js**
 
 - 🔭 I actively participate in **Hackathons**
 
-- I Love working with **Typescript** and **Python**
+- I Love working with **Typescript**
   
-- I have started to do **LeetCode** again to sharpen my **Problem Solving Skills**
-
-- Here is my [Leet Code Profile](https://leetcode.com/u/haseebSahab/)
-
-- 👯 I’m looking to collaborate on **building Applied GenAI Web Applications**
+- 👯 I’m looking to collaborate on **building Web Applications**
 
 - 💬 Ask me about **Full Stack Development, Front End , React, FAST API**
 
